@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "matriz-inventarios-en-gam",
+  "private_key_id": "5c5a518a4612eccefb07dded5700b2f01f3c4e4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCf4Gy30lmywtxY\nP4vTfHWTI3pq9SoChHdyY6Jg39sPTqwslBmOMO0IlQKp/NBRn6JlRls3RbGv4hdB\n5mDZa6Q1FbT+BM8iTnLFbblk4CWhtUozI9e5NwCPawSoAxi/dd0trsGSlCXUzu81\nRSpYzRFmK1cdhSY3Po/Qq1+ZSQKWVIoVo1/6YzVrVWvW1kU6rHn4mJR8YAgJ3mTt\np6oN/1Dn6kk3zo7tdmQ+LSzw6Y4bX1KgbKOGG/p7VUWwf47u+C1AH+GnAkpaJDr8\n5UsF/r0pWLKQCpf/2tf85gqd1CiHTRFoxCHaf+I3S1b19wCgL1/9orqy/4EQUNk5\nGDM2ODBJAgMBAAECgf8Ywd7vc7W5VE7vW3oUxdW4TrPdJWMAkxUQs+9e7G/tbuXx\nbv2qq8RSD+W1I/EeaYeqApaLL3aLaonBvP1m9ujSKwpcAoc1bV4z60nci/3aHwHe\ne8C1SSqWL3xSPwPxfYXU6JZaU02Ib/C/heQbJV0w9Rd2H18nClI667yGpLVmbU1z\nyFixs7Bx5UkKlIPeosMVatUeDmoRdepICOb1IJDe9zFoS+2iLBQuIipEtO+5XwyW\ntx7F5S+vNfQw4Mv9Um76kiMeT97/1Pgf9KXzZ3HFAVk4J2rLlcvRphP21zCQ6QBs\nasoD+yiTagjEnraNObnjDuDbK7eur+aT+/Ua7aMCgYEA3jKKNv+3gyxM8HXZF4Eb\npdj2aJfHzHaV20MzmdoCjmhP6UDKbXSFyf55V+t3vAdbCjcbvN66/1tXjTyRng9F\nXXkHTEs06GTFIwwwScUyT7jOxEVsTWTAbjVyJvZJSzAyVzQb8iBA/XPmqmn4m8/3\nR5usyd9DPRZoJKZz6Sq3Xz8CgYEAuDLO0BsbnQCtDJ80oHEYguiB9p+pjkJynrR2\nkWfrirKZgCaX34CYDZhHDQGoxZvyX7uOvplw7Tve2HQXiI+YGBksIUhL1gflD+q8\nAWVcjnOhnYEH9g/JkDjRRLZeDP3ltNJ4r+5343kfPDS98GPCEEbBfSSZqBiBxNl/\nKLfUlncCgYAJVlJckU5i4r+w8yLWTASfaYihSI+K1gjiF+bZNkIZPeTtxl07UEQ3\nAsySl0CG1EBNI5e0zh9Jj8sUElGENNwTW3ylBhwJEAMAwAhfcTv2Aawer1QnxG4Z\ns4FCheL6l+HlrDjoadaRUAeHbcCWu5yGk9IlAY7PyFtD/wKr77GY/QKBgQCRsAXp\njXdCr7UvZYCfYbRMXg/k+5WFIkM8CWo6SaJ/+hD0zhGTQkeBgS65N9XALj7+vv8A\n+6XYzWDNfMzcQw6+CLLhxCfPKkFfXH7E7+HL/eMXC2Y7lXMMMhQ6r68lwW98nHe+\nVvPWJAeze9e7GXv1mbESBO/Ph0qkYo5zqypmswKBgGCMyKofhhMJhrxAAa1WWXJa\nGVvQeoERUMFgceGsJ3spvR4/t+sB+gDdBCEqPRTmxqPHSHKo262d5wTSk0ho9SyZ\nm4HltFCWmzsAIg+gGL9B5nCoXABWw695AJrcDr0q5So0WOPHiz8RgsJ6J/L82x3z\n9RJuxbwZ0cnPh9Z0Vfw2\n-----END PRIVATE KEY-----\n",
+  "client_email": "acceso-google-sheets-github@matriz-inventarios-en-gam.iam.gserviceaccount.com",
+  "client_id": "100749576335065237023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acceso-google-sheets-github%40matriz-inventarios-en-gam.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
